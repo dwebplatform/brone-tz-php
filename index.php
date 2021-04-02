@@ -1,0 +1,2 @@
+<?php
+// import db.config 
